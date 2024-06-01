@@ -7,5 +7,5 @@ he convertido a FreeBasic los fuentes, y mejorado (en lo posible) los pequeños 
 
 Sirve para convertir los ficheros de mapas DBO del DarkBasic al formato Mallas estáticas IRRMESH del motor gráfico 3D Irrlicht.
 
-Para probar la salida convertida, usar mi visualizador de mapas -> 
+Para probar la salida convertida, usar mi visualizador de mapas -> https://github.com/jepalza/FB_IRRMESH_VIEWER
 
